@@ -10,4 +10,4 @@ git log --oneline --all > log.txt
 git add log.txt
 git commit -m "Добавил log.txt"
 
-git push origin main
+git push
