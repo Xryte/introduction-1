@@ -1,0 +1,2 @@
+c26c174 (HEAD -> main) Добавил status.txt
+e8287fb (origin/main, origin/HEAD) Initial commit
